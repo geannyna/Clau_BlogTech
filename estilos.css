@@ -180,7 +180,9 @@ font-size: 1em;
   position: relative;
   display: flex;
   align-content: center;
-
+  border-radius: 2 solid black;
+  box-shadow:#2d2c2e 10px;
+  /*backdrop-filter: blur(20px);*/
 }
 .cuerpo img{
   width: 200px;
@@ -293,3 +295,5 @@ aside{
     text-align: center;
   }
  }
+
+ /*hay que poner por cada clase todos los detalles que quieras que se cambie dentro de @media*/
