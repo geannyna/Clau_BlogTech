@@ -189,7 +189,7 @@ font-size: 1em;
   height: 150px;
   /*border-radius: 400px 8px 400px 8px;*/
   border: rgb(28, 102, 194) solid;
-  -moz-border-radius: 0 50% / 0 80%;
+  -moz-border-radius: 0 50% / 0 50%;
   -webkit-border-radius: 0 50% / 0 80%;
   border-radius: 0 50% / 0 80%;
 
